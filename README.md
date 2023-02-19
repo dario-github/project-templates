@@ -1,17 +1,33 @@
-# <center>Project Templates</center>
+<p align="center">
+  <img width="100px" src="https://img.icons8.com/ios/250/FFFFFF/share-2.png" align="center" alt="Project Templates" />
+  <h1 align="center">
+    Project Templates
+  </h1>
+  <p align="center">
+    Something.
+  </p>
+</p>
 
-<div style="text-align:center">
-
-Something.
-
-[![CI](https://github.com/dario-github/project_templates/actions/workflows/main.yml/badge.svg)](https://github.com/dario-github/project_templates/actions/workflows/main.yml)
-![version](https://img.shields.io/badge/version-1.0.0-green.svg?maxAge=259200)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dario-github.project_templates&left_color=gray&right_color=green)
-
-[English](./README.md) / [简体中文](./README.zh.md)
-
-</div>
-
+  <p align="center">
+    <a href="https://github.com/dario-github/project_templates/actions">
+      <img alt="Tests Passing" src="https://github.com/dario-github/project_templates/actions/workflows/main.yml/badge.svg" />
+    </a>
+    <a href="https://codecov.io/gh/dario-github/project_templates">
+      <img alt="codecov" src="https://codecov.io/gh/dario-github/project_templates/branch/main/graph/badge.svg?token=ehzYhousD3" />
+    </a>
+    <a href="https://github.com/dario-github/project_templates/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/dario-github/project_templates" />
+    </a>
+    <a href="https://github.com/dario-github/project_templates">
+      <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dario-github.project_templates&left_color=gray&right_color=green" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="README.md">English</a>
+    /
+    <a href="README.zh.md">简体中文</a>
+  </p>
 
 ## Introduction
 
