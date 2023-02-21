@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "project_templates"
+name = "project-templates"
 version = "1.0.0"
 description = "Something."
 authors = ["dario-github <zdclink@gmail.com>"]
