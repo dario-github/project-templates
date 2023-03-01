@@ -2,36 +2,41 @@
 name = "project-templates"
 version = "1.0.0"
 description = "Something."
-authors = ["dario-github <zdclink@gmail.com>"]
+authors = ["Dario Zhang <zdclink@gmail.com>"]
 license = "MIT license"
 readme = "README.md"
-packages = [{include = "project_templates", from = "src"}]
+packages = [{include = "project-templates", from = "src"}]
 
 [tool.poetry.dependencies]
-python = "~3.8.10"
+python = "^3.8.10,<3.12"
 arrow = "1.2.3"
-pyfunctional = "1.4.3"
+toolz = "0.12.0"
 ruamel-yaml = "0.17.21"
 tqdm = "4.64.1"
 tabulate = "0.9.0"
+wcwidth = "0.2.6"
 typer = "0.7.0"
+pydantic = "1.10.5"
 
 [tool.poetry.group.dev.dependencies]
-py = "1.11.0"
-pytest = "7.2.1"
-pytest-cover = "3.0.0"
-pytest-html = "3.1.1"
-black = "23.1.0"
-isort = "5.12.0"
-flake8 = "6.0.0"
-pylint = "2.16.2"
-tox = "3.28.0"
-invoke = "1.7.3"
-setuptools = "67.3.2"
+py = "^1.11.0"
+pytest = "^7.2.1"
+pytest-cover = "^3.0.0"
+pytest-html = "^3.1.1"
+black = "^23.1.0"
+isort = "^5.12.0"
+flake8 = "^6.0.0"
+pylint = "^2.16.2"
+tox = "^3.28.0"
+invoke = "^1.7.3"
+setuptools = "^67.3.2"
 sphinx = {version = "3.4.0", optional = true}
 sphinx-rtd-theme = {version = "0.5.0", optional = true}
 recommonmark = {version = "0.7.1", optional = true}
 sphinx-markdown-tables = {version = "0.0.15", optional = true}
+pyinstaller = "^5.8.0"
+memory-profiler = "^0.61.0"
+autopep8 = "^2.0.1"
 
 
 [tool.poetry.extras]

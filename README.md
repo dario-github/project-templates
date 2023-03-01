@@ -9,17 +9,17 @@
 </p>
 
   <p align="center">
-    <a href="https://github.com/dario-github/project_templates/actions">
-      <img alt="Tests Passing" src="https://github.com/dario-github/project_templates/actions/workflows/main.yml/badge.svg" />
+    <a href="https://github.com/dario-github/project-templates/actions">
+      <img alt="Tests Passing" src="https://github.com/dario-github/project-templates/actions/workflows/main.yml/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/dario-github/project_templates">
-      <img alt="codecov" src="https://codecov.io/gh/dario-github/project_templates/branch/main/graph/badge.svg?token=ehzYhousD3" />
+    <a href="https://codecov.io/gh/dario-github/project-templates">
+      <img alt="codecov" src="https://codecov.io/gh/dario-github/project-templates/branch/main/graph/badge.svg?token=ehzYhousD3" />
     </a>
-    <a href="https://github.com/dario-github/project_templates/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/dario-github/project_templates" />
+    <a href="https://github.com/dario-github/project-templates/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/dario-github/project-templates" />
     </a>
-    <a href="https://github.com/dario-github/project_templates">
-      <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dario-github.project_templates&left_color=gray&right_color=green" />
+    <a href="https://github.com/dario-github/project-templates">
+      <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=dario-github.project-templates&left_color=gray&right_color=green" />
     </a>
   </p>
   

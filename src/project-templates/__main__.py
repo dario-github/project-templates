@@ -3,7 +3,6 @@ import traceback
 from pathlib import Path
 
 import typer
-
 from project_templates.parameter.log import config_log
 
 app = typer.Typer()
@@ -13,7 +12,7 @@ PROJECT_ROOT_DIR = Path(__file__).parent.parent.parent
 
 @app.command()
 def main():
-    """main function, use `python -m project_templates main` to run this."""
+    """main function, use `python -m project-templates main` to run this."""
     config_log(
         PROJECT_ROOT_DIR.stem,
         "main",
