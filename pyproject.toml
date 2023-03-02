@@ -5,7 +5,7 @@ description = "Something."
 authors = ["Dario Zhang <zdclink@gmail.com>"]
 license = "MIT license"
 readme = "README.md"
-packages = [{include = "project-templates", from = "src"}]
+packages = [{include = "project_templates", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.8.10,<3.12"
@@ -36,7 +36,6 @@ recommonmark = {version = "0.7.1", optional = true}
 sphinx-markdown-tables = {version = "0.0.15", optional = true}
 pyinstaller = "^5.8.0"
 memory-profiler = "^0.61.0"
-autopep8 = "^2.0.1"
 
 
 [tool.poetry.extras]

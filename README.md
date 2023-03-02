@@ -53,7 +53,7 @@ style D fill:#ecdfb6,color:#0b111a
 ## Installation
 
 ```shell
-python3.8 -m pip install project-templates
+python3.10 -m pip install project-templates
 ```
 
 ## Quick use
